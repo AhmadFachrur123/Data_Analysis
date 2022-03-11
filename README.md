@@ -1,2 +1,3 @@
 # SQL
-. gsgsgs
+dnddnndnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnndnnd
+dmdmmdmd'dmdmd
