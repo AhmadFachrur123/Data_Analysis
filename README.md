@@ -1,2 +1,1 @@
-# SQL_Project
-MySQL
+# SQL
