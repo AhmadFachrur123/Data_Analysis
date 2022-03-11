@@ -1,3 +1,2 @@
 # SQL
-dnddnndnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnndnnd
-dmdmmdmd'dmdmd
+
