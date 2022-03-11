@@ -28,6 +28,4 @@ SELECT ms_produk.harga AS harga_jual FROM ms_produk
 == Menggunakan Alias pada Tabel
 SELECT * FROM ms_produk t2
 
-== Prefix dengan Alias Tabel
-SELECT t2.nama_produk,t2.harga FROM ms_produk t2;
 
