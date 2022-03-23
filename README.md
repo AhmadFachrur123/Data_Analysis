@@ -1,2 +1,2 @@
 # SQL
- sql adalah sesuatu yang 
+ sql adalah sesuatu yang ccccccccccccccc
